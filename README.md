@@ -1,1 +1,1 @@
-# Projects
+A secure file sharing system which supports the creation of user accounts, changing passwords, file sharing, uploading, and retrieval, and is secure against various attacks, including insider attacks.
